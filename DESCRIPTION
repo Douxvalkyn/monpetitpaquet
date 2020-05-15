@@ -17,3 +17,7 @@ RoxygenNote: 7.1.0
 Language: fr
 Suggests: 
     testthat
+Imports: 
+    dplyr (>= 0.8),
+    purrr,
+    magrittr
