@@ -1,4 +1,4 @@
-#' Title
+#' titre
 #'
 #' @param x
 #' @param na.value
