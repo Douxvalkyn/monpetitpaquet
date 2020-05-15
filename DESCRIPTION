@@ -1,0 +1,19 @@
+Package: monpetitpaquet
+Title: Mon Premier Paquet
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Régis",
+             family = "Relland",
+             role = c("aut", "cre"),
+             email = "regis.relland@insee.fr"),
+      person(family = "Institut national de la statistique et des études économiques",
+             role = "cph"))
+Description: J'ai créé ce package pour apprendre. Ne l'installez pas il ne fait rien d'intéressant pour l'instant.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Language: fr
+Suggests: 
+    testthat
