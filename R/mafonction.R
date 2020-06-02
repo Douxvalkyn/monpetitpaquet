@@ -27,3 +27,5 @@ fix_missing <- function(x, na.value) {
   x[x == na.value] <- NA
   x
 }
+
+# passage de gitlab à github
